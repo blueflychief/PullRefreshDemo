@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PullRefreshLayout</string>
+    <string name="stringPullLoadMore">下拉加载更多</string>
+    <string name="stringReleaseLoadMore">松开加载</string>
+    <string name="stringLoading">正在加载消息…</string>
+    <string name="stringLoaded">加载完成</string>
+
+    <!--RecyclerView-->
+    <string name="string_recycler_loading">正在加载…</string>
+    <string name="string_recycler_pull_to_load">上拉加载更多</string>
+    <string name="string_recycler_no_more">没有更多</string>
+    <string name="string_recycler_load_failed">加载失败，点击重新加载</string>
+</resources>
